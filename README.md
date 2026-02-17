@@ -4,11 +4,7 @@
 ## Project Overview
 Retail companies often struggle to understand actual store performance due to messy and unstructured sales data. This makes it difficult for management to identify high-performing stores, profitable products, and improvement areas.
 
-This project focuses on cleaning, analyzing, and visualizing retail sales data to provide actionable business insights using an interactive dashboard built in Google Sheets.
-
-The objective is to enable data-driven decisions that improve sales performance and operational efficiency.
-
-The cleaned dataset enabled analysis of **11,362 transactions**, generating **total revenue of 1,472,998.5** across stores.
+The objective of this project is to organize sales data, analyze key performance indicators, and support data-driven decision-making to improve sales performance and operational efficiency.
 
 ![Retail Store Sales Analytics Banner](banner.png)
 
@@ -144,3 +140,4 @@ Future improvements may include:
 
 ## Project Outcome
 The project transformed raw retail sales data into meaningful insights and an interactive dashboard, enabling smarter business decisions and improved retail performance.
+
