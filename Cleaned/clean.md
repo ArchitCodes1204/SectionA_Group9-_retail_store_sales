@@ -1,6 +1,6 @@
-# 🧹 Data Cleaning Process -- DVA Project
+#  Data Cleaning Process -- DVA Project
 
-## 1️⃣ Copying Raw Data
+## Copying Raw Data
 
 First, we copied the `retail_store_sales_raw` sheet into a new working
 sheet.\
@@ -8,14 +8,14 @@ This was done to keep the original raw data safe and unchanged.
 
 ------------------------------------------------------------------------
 
-## 2️⃣ Removing Duplicates
+## Removing Duplicates
 
 After copying the data: - We removed all duplicate records. - This
 ensured that each transaction appears only once.
 
 ------------------------------------------------------------------------
 
-## 3️⃣ Handling Null (Blank) Values
+## Handling Null (Blank) Values
 
 -   We identified blank/null values in the dataset.
 -   Applied filters to all columns to easily detect missing values.
@@ -30,7 +30,7 @@ errors.
 
 ------------------------------------------------------------------------
 
-## 4️⃣ Fixing Discount Formula
+## Fixing Discount Formula
 
 We corrected the discount formula using:
 
@@ -43,7 +43,7 @@ discount if found - Returns FALSE if no match is found
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Numeric Formatting & Standardization
+## Numeric Formatting & Standardization
 
 -   Applied proper numeric formatting to columns.
 -   Standardized data types across the table.
@@ -51,7 +51,7 @@ discount if found - Returns FALSE if no match is found
 
 ------------------------------------------------------------------------
 
-## 6️⃣ Extracting Date Information
+## Extracting Date Information
 
 From the Transaction Date column, we extracted: - Transaction Year -
 Transaction Month
@@ -60,7 +60,7 @@ This helps in better time-based analysis and visualization.
 
 ------------------------------------------------------------------------
 
-# ✅ Final Result
+# Final Result
 
 After completing all these steps: - The dataset is clean\
 - No duplicates\
