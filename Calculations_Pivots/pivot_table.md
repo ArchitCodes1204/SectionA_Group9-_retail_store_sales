@@ -1,4 +1,4 @@
-# Retail Sales Business Intelligence Dashboard  
+
 ## Pivot Analysis Documentation
 
 ---
