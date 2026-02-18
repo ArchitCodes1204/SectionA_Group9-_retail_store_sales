@@ -1,13 +1,13 @@
-# 📊 Dashboard Creation -- DVA Project
+#  Dashboard Creation -- DVA Project
 
-## 1️⃣ Creating Pivot Tables
+## Creating Pivot Tables
 
 After cleaning the dataset, we created Pivot Tables to summarize and
 analyze the data properly.
 
 ------------------------------------------------------------------------
 
-## 2️⃣ Charts Created
+## Charts Created
 
 Based on the Pivot Tables, we created 6 charts:
 
@@ -23,7 +23,7 @@ and revenue patterns.
 
 ------------------------------------------------------------------------
 
-## 3️⃣ KPI Metrics Added
+## KPI Metrics Added
 
 We also created 5 KPI (Key Performance Indicator) cards:
 
@@ -37,7 +37,7 @@ These KPIs provide a quick summary of overall business performance.
 
 ------------------------------------------------------------------------
 
-## 4️⃣ Adding Slicers
+## Adding Slicers
 
 We added 3 slicers to make the dashboard interactive:
 
@@ -50,7 +50,7 @@ specific data segments.
 
 ------------------------------------------------------------------------
 
-## 5️⃣ Final Dashboard Design
+## Final Dashboard Design
 
 -   All charts and KPI cards were properly aligned.
 -   Elements were placed in correct positions for better readability.
@@ -59,7 +59,7 @@ specific data segments.
 
 ------------------------------------------------------------------------
 
-# ✅ Final Result
+# Final Result
 
 After completing all these steps, our dashboard is fully ready.
 
