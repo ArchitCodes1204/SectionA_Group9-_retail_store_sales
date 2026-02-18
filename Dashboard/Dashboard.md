@@ -12,7 +12,7 @@ analyze the data properly.
 Based on the Pivot Tables, we created 6 charts:
 
 1.  Monthly Revenue Trend
-2.  Payment Method Share'
+2.  Payment Method Share
 3.  Percentage of Sales with Respect to Discount
 4.  In-Store vs Online Growth
 5.  Year-wise Category Sold
