@@ -15,7 +15,7 @@ ensured that each transaction appears only once.
 
 ------------------------------------------------------------------------
 
-## Handling Null (Blank) Values.
+## Handling Null (Blank) Values
 
 -   We identified blank/null values in the dataset
 -   Applied filters to all columns to easily detect missing values.
